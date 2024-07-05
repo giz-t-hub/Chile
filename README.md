@@ -3,8 +3,7 @@ Planes, datos y otros documentos sobre transporte en Chile *[Plans, data and oth
 
 <b> 
 Lista comunitaria de publicaciones, datos y otra información útil sobre transporte en Chile bike::bus::train:🌳🚊
-</b><br><br>
-*[Community list of publications, data and other useful information on transport in Chile]*
+</b><br><br> *[Community list of publications, data and other useful information on transport in Chile]*
 
 ¿Tienes algo que añadir o cambiar? Contacto *[Have something to add or change? Contact]*: Armin.Wagner@giz.de
 

@@ -37,12 +37,10 @@ Lista comunitaria de publicaciones, datos y otra información útil sobre transp
 
 - Ferrocarriles *[Railways]*
   	-
- 
 - Carreteras *[Roads]*
   	- 
-    
 - Vías navegables interiores, puertos *[Inland waterways, ports]*
-  	- 
+  	-
 - Aviación *[Avaition]*
   	-
 

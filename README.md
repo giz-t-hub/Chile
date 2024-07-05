@@ -12,18 +12,18 @@ Lista comunitaria de publicaciones, datos y otra información útil sobre transp
 
 ### Tabla de Contenidos
 
-- [Visión Nacional, Estrategia, Plan Maestro](#Visión Nacional-Estrategia-Plan Maestro)*[National Vision, Strategy, Masterplan](#National-Vision-Strategy-Masterplan)*
-- [Otros documentos nacionales y sectoriales](#Otros-documentos-nacionales-sectoriales)*[Other national and sectoral documents](#other-national-sectoral-documents)* 
-- [Políticas climáticas y energéticas](#Políticas-climáticas-energéticas)*[Climate and energy policies](#climate-energy-policies)*
-- [Desarrollo urbano y regional](#urbano)*[Urban and regional development](#urban)*
-- [Adhesión y cooperación con la UE](#Adhesión-UE)*[EU accession and cooperation](#eu-accession)*
-- [Facilitación del Comercio](#Facilitación-del-Comercio)*[Trade Facilitation](#trade-facilitation)*  
-- [Digitalización](#Digitalización)*[Digitalisation](#digitalisation)*
-- [Género e Igualdad](#Género)*[Gender and Equality](#gender)*
-- [Planes de movilidad urbana, estrategias y conceptos; planes de transporte local, etc.](#planes-de-transporte-local)*[Urban mobility plans, strategies, and concepts; local transport plans, etc](#local-transport-plans)* 
-- [Estudios y documentos de investigación](#Estudios-investigación)*[Studies and research papers](#studies-research)*
-- [Proyectos y estrategias de cooperación internacional](#cooperación-internacional)*[International cooperation projects and strategies](#International-cooperation)*
-- [Datos](#Datos)*[Data](#data)*
+- [Visión Nacional, Estrategia, Plan Maestro](#Visión-Nacional-Estrategia-Plan-Maestro) *[National Vision, Strategy, Masterplan](#National-Vision-Strategy-Masterplan)*
+- [Otros documentos nacionales y sectoriales](#Otros-documentos-nacionales-sectoriales) *[Other national and sectoral documents](#other-national-sectoral-documents)* 
+- [Políticas climáticas y energéticas](#Políticas-climáticas-energéticas) *[Climate and energy policies](#climate-energy-policies)*
+- [Desarrollo urbano y regional](#urbano) *[Urban and regional development](#urban)*
+- [Adhesión y cooperación con la UE](#Adhesión-UE) *[EU accession and cooperation](#eu-accession)*
+- [Facilitación del Comercio](#Facilitación-del-Comercio) *[Trade Facilitation](#trade-facilitation)*  
+- [Digitalización](#Digitalización) *[Digitalisation](#digitalisation)*
+- [Género e Igualdad](#Género) *[Gender and Equality](#gender)*
+- [Planes de movilidad urbana, estrategias y conceptos; planes de transporte local, etc.](#planes-de-transporte-local) *[Urban mobility plans, strategies, and concepts; local transport plans, etc](#local-transport-plans)* 
+- [Estudios y documentos de investigación](#Estudios-investigación) *[Studies and research papers](#studies-research)*
+- [Proyectos y estrategias de cooperación internacional](#cooperación-internacional) *[International cooperation projects and strategies](#International-cooperation)*
+- [Datos](#Datos) *[Data](#data)*
 
   
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 

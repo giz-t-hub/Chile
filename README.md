@@ -12,24 +12,24 @@ Lista comunitaria de publicaciones, datos y otra información útil sobre transp
 
 ### Tabla de Contenidos
 
-- [Visión Nacional, Estrategia, Plan Maestro](#Visión-Nacional-Estrategia-Plan-Maestro) *[National Vision, Strategy, Masterplan](#National-Vision-Strategy-Masterplan)*
-- [Otros documentos nacionales y sectoriales](#Otros-documentos-nacionales-sectoriales) *[Other national and sectoral documents](#other-national-sectoral-documents)* 
-- [Políticas climáticas y energéticas](#Políticas-climáticas-energéticas) *[Climate and energy policies](#climate-energy-policies)*
-- [Desarrollo urbano y regional](#urbano) *[Urban and regional development](#urban)*
-- [Adhesión y cooperación con la UE](#Adhesión-UE) *[EU accession and cooperation](#eu-accession)*
-- [Facilitación del Comercio](#Facilitación-del-Comercio) *[Trade Facilitation](#trade-facilitation)*  
-- [Digitalización](#Digitalización) *[Digitalisation](#digitalisation)*
-- [Género e Igualdad](#Género) *[Gender and Equality](#gender)*
-- [Planes de movilidad urbana, estrategias y conceptos; planes de transporte local, etc.](#planes-de-transporte-local) *[Urban mobility plans, strategies, and concepts; local transport plans, etc](#local-transport-plans)* 
+- [Visión Nacional, Estrategia, Plan Maestro](#Visión-Nacional-Estrategia-Plan-Maestro) *[National Vision, Strategy, Masterplan]*
+- [Otros documentos nacionales y sectoriales](#Otros-documentos-nacionales-sectoriales) *[Other national and sectoral documents]* 
+- [Políticas climáticas y energéticas](#Políticas-climáticas-energéticas) *[Climate and energy policies]*
+- [Desarrollo urbano y regional](#urbano) *[Urban and regional development]*
+- [Adhesión y cooperación con la UE](#Adhesión-UE) *[EU accession and cooperation]*
+- [Facilitación del Comercio](#Facilitación-del-Comercio) *[Trade Facilitation]*  
+- [Digitalización](#Digitalización) *[Digitalisation]*
+- [Género e Igualdad](#Género) *[Gender and Equality]*
+- [Planes de movilidad urbana, estrategias y conceptos; planes de transporte local, etc.](#planes-de-transporte-local) *[Urban mobility plans, strategies, and concepts; local transport plans, etc]* 
 - [Estudios y documentos de investigación](#Estudios-investigación) *[Studies and research papers](#studies-research)*
-- [Proyectos y estrategias de cooperación internacional](#cooperación-internacional) *[International cooperation projects and strategies](#International-cooperation)*
-- [Datos](#Datos) *[Data](#data)*
+- [Proyectos y estrategias de cooperación internacional](#cooperación-internacional) *[International cooperation projects and strategies]*
+- [Datos](#Datos) *[Data]*
 
   
 ### Visión Nacional, Estrategia, Plan Maestro *National Vision, Strategy, Masterplan* <a name="Visión-Nacional-Estrategia-Plan-Maestro"></a> 
 
 - Transporte
-  	- <b> Transport Development Strategy of Chile (2017 - 2030) </b>: 
+  	- <b> Transport Development Strategy of Chile </b>: 
 - General
 	- <b> Spatial Development Strategy of Chile </b>
  

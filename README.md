@@ -28,7 +28,7 @@ Lista comunitaria de publicaciones, datos y otra información útil sobre transp
   
 ### Visión Nacional, Estrategia, Plan Maestro *[National Vision, Strategy, Masterplan]* <a name="Visión-Nacional-Estrategia-Plan-Maestro"></a> 
 
-- Transporte
+- Transporte *[Transport]*
   	- <b> Transport Development Strategy of Chile </b>: 
 - General
 	- <b> Spatial Development Strategy of Chile </b>
@@ -36,23 +36,23 @@ Lista comunitaria de publicaciones, datos y otra información útil sobre transp
 
 ### Otros documentos nacionales y sectoriales *[Other national and sectoral documents]* <a name="Otros-documentos-nacionales-sectoriales"></a> 
 
-- Ferrocarriles *[Railways]*:
+- Ferrocarriles *[Railways]*
   	-
  
-- Carreteras *[Roads]*:
+- Carreteras *[Roads]*
   	- 
     
-- Vías navegables interiores, puertos *[Inland waterways, ports]*:
+- Vías navegables interiores, puertos *[Inland waterways, ports]*
   	- 
-- Aviación *[Avaition]*:
+- Aviación *[Avaition]*
   	-
 
 ### Políticas climáticas y energéticas *[Climate and energy policies]* <a name="Políticas-climáticas-energética"></a> 
 
-- Mitigación *[Mitigation]*:
+- Mitigación *[Mitigation]*
   	-
   
-- Adaptación *[Adaptation]*:
+- Adaptación *[Adaptation]*
   	-
   
 - Política energética *[Energy policy]*:

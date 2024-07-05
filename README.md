@@ -1,12 +1,12 @@
 # Transporte en *Transport in* Chile
-Planes, datos y otros documentos sobre transporte en Chile *Plans, data and other documents on transport in Chile* 
+Planes, datos y otros documentos sobre transporte en Chile *[Plans, data and other documents on transport in Chile]*
 
 <b> 
 Lista comunitaria de publicaciones, datos y otra información útil sobre transporte en Chile bike::bus::train:🌳🚊
 </b><br><br>
-*Community list of publications, data and other useful information on transport in Chile*
+*[Community list of publications, data and other useful information on transport in Chile]*
 
-¿Tienes algo que añadir o cambiar? Contacto: Armin.Wagner@giz.de
+¿Tienes algo que añadir o cambiar? Contacto *[Have something to add or change? Contact]*: Armin.Wagner@giz.de
 
 ------------------------------
 
@@ -100,6 +100,7 @@ Lista comunitaria de publicaciones, datos y otra información útil sobre transp
 Visión General/Tabla de Contenidos *[Overview/Table of Content]*: https://github.com/giz-t-hub/Overview
 
 Descargo de responsabilidad: Las conclusiones, interpretaciones y conclusiones expresadas en este repositorio se basan en información recopilada por GIZ y sus consultores, socios y colaboradores. Sin embargo, GIZ no garantiza la exactitud ni la integridad de la información en este documento y no se hace responsable de ningún error, omisión o pérdida que surja de su uso. La colocación y listado de empresas, academia u otros interesados (o sus logotipos, datos de contacto u otra información) en este repositorio no significa ningún respaldo por parte de GIZ u otros socios. Se recomienda a los usuarios ejercer la debida diligencia respecto a la información, ofertas y propuestas.
+
 *[Disclaimer: Findings, interpretations and conclusions expressed in this repository are based on information gathered by GIZ and its consultants, partners and contributors. GIZ does not, however, guarantee the accuracy of completeness of information in this document, and cannot be held responsible for any errors, omissions or losses which emerge from its use. The placement and listing of companies, academia or other stakeholders (or their logos, contact details or other information) in this repository doesn’t mean any endorsement by GIZ or other partners. Users are encouraged to exercise due-diligence in respect to information, offers and proposals.]*
 
 

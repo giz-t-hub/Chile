@@ -47,13 +47,10 @@ Lista comunitaria de publicaciones, datos y otra información útil sobre transp
 ### Políticas climáticas y energéticas *[Climate and energy policies]* <a name="Políticas-climáticas-energética"></a> 
 
 - Mitigación *[Mitigation]*
-  	-
   
 - Adaptación *[Adaptation]*
-  	-
   
 - Política energética *[Energy policy]*
-	- 
 
 ### Desarrollo urbano y regional *[Urban and regional development]* <a name="urbano"></a> 
 
@@ -64,6 +61,7 @@ Lista comunitaria de publicaciones, datos y otra información útil sobre transp
 -
 
 ### Facilitación del Comercio *[Trade Facilitation]* <a name="Facilitación-del-Comercio"></a> 
+
 
 -
 

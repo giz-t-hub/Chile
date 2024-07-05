@@ -29,7 +29,7 @@ Lista comunitaria de publicaciones, datos y otra información útil sobre transp
 
 - Transporte *[Transport]*
   	- <b> Transport Development Strategy of Chile </b>: 
-- General
+- General *[General]*
 	- <b> Spatial Development Strategy of Chile </b>
  
 

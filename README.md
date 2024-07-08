@@ -1,8 +1,8 @@
 # Transporte y Movilidad Chile *[Transport and mobility in Chile]* 
-Planes, datos y otros documentos sobre transporte y Movilidad Chile *[Plans, data and other documents on transport and mobility in Chile]*
+Planes, datos y otros documentos sobre transporte y movilidad Chile *[Plans, data and other documents on transport and mobility in Chile]*
 <b> 
 
-Lista comunitaria de publicaciones, datos y otra información útil sobre transporte en Chile *[Community list of publications, data and other useful information on transport in Chile]* 🚲🚌🚋🌳🚊
+Lista comunitaria de publicaciones, datos y otra información útil sobre transporte y movilidad en Chile *[Community list of publications, data and other useful information on transport and mobility in Chile]* 🚲🚌🚋🌳🚊
 </b><br><br> 
 
 
